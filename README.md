@@ -1,15 +1,3 @@
-├── Amazon Sales Analysis.pdf
-├── Blinkit Dashboard.pdf
-├── Dice.py
-├── E-Commerce.pdf
-├── EDA.pdf
-├── Num_guessing_game.py
-├── README.md
-├── currency_converter.py
-├── password_generator.py
-├── qr_code_generator.py
-├── rock_paper_scissor.py
-└── tca.ipynb
 🚀 Mini Projects Collection 
 
 This repository contains a collection of Python-based mini projects and data analysis dashboards, built to enhance problem-solving, data handling, and automation skills. Each project demonstrates practical applications of Python programming, ranging from beginner-level games to intermediate data analysis projects.
